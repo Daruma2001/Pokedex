@@ -1,7 +1,7 @@
 let pokemons = [];
 const poke_container = document.getElementById("poke_container");
 const baseUrl = "https://pokeapi.co/api/v2/pokemon";
-const pokemons_number = 820; // จำนวนโปเกมอนที่ต้องการแสดงผล
+const pokemons_number = 811; // จำนวนโปเกมอนที่ต้องการแสดงผล
 const search = document.getElementById("search");
 const form = document.getElementById("form");
 
